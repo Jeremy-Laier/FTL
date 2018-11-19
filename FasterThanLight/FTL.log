@@ -1,0 +1,295 @@
+lib/SIL/src/sysdep/posix/time.c:82(sys_time_init): Using CLOCK_MONOTONIC as time source
+Version: 1.6.8
+Loading settings
+Initializing Crash Catcher...
+Starting up
+Loading text
+Initializing Video
+Video: 1280x720, windowed
+lib/SIL/src/sysdep/opengl/graphics.c:420(opengl_init): OpenGL version: 3.0 Mesa 18.2.4
+lib/SIL/src/sysdep/opengl/graphics.c:421(opengl_init): GLSL version: 1.30
+lib/SIL/src/sysdep/opengl/graphics.c:422(opengl_init): OpenGL vendor: Intel Open Source Technology Center
+lib/SIL/src/sysdep/opengl/graphics.c:423(opengl_init): OpenGL renderer: Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) 
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 0: GL_3DFX_texture_compression_FXT1
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 1: GL_AMD_conservative_depth
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 2: GL_AMD_draw_buffers_blend
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 3: GL_AMD_seamless_cubemap_per_texture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 4: GL_AMD_shader_stencil_export
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 5: GL_AMD_shader_trinary_minmax
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 6: GL_ANGLE_texture_compression_dxt3
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 7: GL_ANGLE_texture_compression_dxt5
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 8: GL_APPLE_object_purgeable
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 9: GL_APPLE_packed_pixels
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 10: GL_ARB_ES2_compatibility
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 11: GL_ARB_ES3_1_compatibility
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 12: GL_ARB_ES3_compatibility
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 13: GL_ARB_arrays_of_arrays
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 14: GL_ARB_blend_func_extended
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 15: GL_ARB_buffer_storage
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 16: GL_ARB_clear_buffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 17: GL_ARB_clear_texture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 18: GL_ARB_clip_control
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 19: GL_ARB_color_buffer_float
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 20: GL_ARB_compressed_texture_pixel_storage
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 21: GL_ARB_compute_shader
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 22: GL_ARB_conditional_render_inverted
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 23: GL_ARB_conservative_depth
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 24: GL_ARB_copy_buffer
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 25: GL_ARB_copy_image
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 26: GL_ARB_cull_distance
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 27: GL_ARB_debug_output
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 28: GL_ARB_depth_buffer_float
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 29: GL_ARB_depth_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 30: GL_ARB_depth_texture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 31: GL_ARB_derivative_control
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 32: GL_ARB_draw_buffers
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 33: GL_ARB_draw_buffers_blend
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 34: GL_ARB_draw_elements_base_vertex
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 35: GL_ARB_draw_indirect
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 36: GL_ARB_draw_instanced
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 37: GL_ARB_explicit_attrib_location
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 38: GL_ARB_explicit_uniform_location
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 39: GL_ARB_fragment_coord_conventions
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 40: GL_ARB_fragment_layer_viewport
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 41: GL_ARB_fragment_program
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 42: GL_ARB_fragment_program_shadow
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 43: GL_ARB_fragment_shader
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 44: GL_ARB_fragment_shader_interlock
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 45: GL_ARB_framebuffer_no_attachments
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 46: GL_ARB_framebuffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 47: GL_ARB_framebuffer_sRGB
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 48: GL_ARB_get_program_binary
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 49: GL_ARB_get_texture_sub_image
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 50: GL_ARB_half_float_pixel
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 51: GL_ARB_half_float_vertex
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 52: GL_ARB_indirect_parameters
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 53: GL_ARB_instanced_arrays
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 54: GL_ARB_internalformat_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 55: GL_ARB_internalformat_query2
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 56: GL_ARB_invalidate_subdata
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 57: GL_ARB_map_buffer_alignment
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 58: GL_ARB_map_buffer_range
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 59: GL_ARB_multi_bind
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 60: GL_ARB_multi_draw_indirect
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 61: GL_ARB_multisample
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 62: GL_ARB_multitexture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 63: GL_ARB_occlusion_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 64: GL_ARB_occlusion_query2
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 65: GL_ARB_pipeline_statistics_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 66: GL_ARB_pixel_buffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 67: GL_ARB_point_parameters
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 68: GL_ARB_point_sprite
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 69: GL_ARB_polygon_offset_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 70: GL_ARB_program_interface_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 71: GL_ARB_provoking_vertex
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 72: GL_ARB_query_buffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 73: GL_ARB_robust_buffer_access_behavior
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 74: GL_ARB_robustness
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 75: GL_ARB_sample_shading
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 76: GL_ARB_sampler_objects
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 77: GL_ARB_seamless_cube_map
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 78: GL_ARB_seamless_cubemap_per_texture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 79: GL_ARB_separate_shader_objects
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 80: GL_ARB_shader_atomic_counter_ops
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 81: GL_ARB_shader_atomic_counters
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 82: GL_ARB_shader_ballot
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 83: GL_ARB_shader_bit_encoding
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 84: GL_ARB_shader_clock
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 85: GL_ARB_shader_draw_parameters
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 86: GL_ARB_shader_group_vote
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 87: GL_ARB_shader_image_load_store
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 88: GL_ARB_shader_image_size
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 89: GL_ARB_shader_objects
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 90: GL_ARB_shader_precision
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 91: GL_ARB_shader_stencil_export
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 92: GL_ARB_shader_storage_buffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 93: GL_ARB_shader_texture_image_samples
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 94: GL_ARB_shader_texture_lod
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 95: GL_ARB_shading_language_100
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 96: GL_ARB_shading_language_420pack
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 97: GL_ARB_shading_language_packing
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 98: GL_ARB_shadow
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 99: GL_ARB_stencil_texturing
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 100: GL_ARB_sync
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 101: GL_ARB_texture_barrier
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 102: GL_ARB_texture_border_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 103: GL_ARB_texture_compression
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 104: GL_ARB_texture_compression_bptc
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 105: GL_ARB_texture_compression_rgtc
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 106: GL_ARB_texture_cube_map
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 107: GL_ARB_texture_cube_map_array
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 108: GL_ARB_texture_env_add
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 109: GL_ARB_texture_env_combine
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 110: GL_ARB_texture_env_crossbar
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 111: GL_ARB_texture_env_dot3
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 112: GL_ARB_texture_filter_anisotropic
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 113: GL_ARB_texture_float
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 114: GL_ARB_texture_gather
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 115: GL_ARB_texture_mirror_clamp_to_edge
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 116: GL_ARB_texture_mirrored_repeat
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 117: GL_ARB_texture_multisample
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 118: GL_ARB_texture_non_power_of_two
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 119: GL_ARB_texture_query_levels
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 120: GL_ARB_texture_query_lod
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 121: GL_ARB_texture_rectangle
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 122: GL_ARB_texture_rg
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 123: GL_ARB_texture_rgb10_a2ui
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 124: GL_ARB_texture_stencil8
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 125: GL_ARB_texture_storage
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 126: GL_ARB_texture_storage_multisample
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 127: GL_ARB_texture_swizzle
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 128: GL_ARB_texture_view
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 129: GL_ARB_timer_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 130: GL_ARB_transform_feedback2
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 131: GL_ARB_transform_feedback3
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 132: GL_ARB_transform_feedback_instanced
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 133: GL_ARB_transform_feedback_overflow_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 134: GL_ARB_transpose_matrix
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 135: GL_ARB_uniform_buffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 136: GL_ARB_vertex_array_bgra
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 137: GL_ARB_vertex_array_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 138: GL_ARB_vertex_attrib_binding
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 139: GL_ARB_vertex_buffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 140: GL_ARB_vertex_program
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 141: GL_ARB_vertex_shader
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 142: GL_ARB_vertex_type_10f_11f_11f_rev
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 143: GL_ARB_vertex_type_2_10_10_10_rev
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 144: GL_ARB_window_pos
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 145: GL_ATI_blend_equation_separate
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 146: GL_ATI_draw_buffers
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 147: GL_ATI_separate_stencil
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 148: GL_ATI_texture_env_combine3
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 149: GL_ATI_texture_float
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 150: GL_EXT_abgr
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 151: GL_EXT_bgra
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 152: GL_EXT_blend_color
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 153: GL_EXT_blend_equation_separate
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 154: GL_EXT_blend_func_separate
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 155: GL_EXT_blend_minmax
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 156: GL_EXT_blend_subtract
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 157: GL_EXT_compiled_vertex_array
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 158: GL_EXT_copy_texture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 159: GL_EXT_draw_buffers2
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 160: GL_EXT_draw_instanced
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 161: GL_EXT_draw_range_elements
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 162: GL_EXT_fog_coord
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 163: GL_EXT_framebuffer_blit
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 164: GL_EXT_framebuffer_multisample
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 165: GL_EXT_framebuffer_multisample_blit_scaled
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 166: GL_EXT_framebuffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 167: GL_EXT_framebuffer_sRGB
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 168: GL_EXT_gpu_program_parameters
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 169: GL_EXT_multi_draw_arrays
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 170: GL_EXT_packed_depth_stencil
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 171: GL_EXT_packed_float
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 172: GL_EXT_packed_pixels
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 173: GL_EXT_pixel_buffer_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 174: GL_EXT_point_parameters
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 175: GL_EXT_polygon_offset_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 176: GL_EXT_provoking_vertex
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 177: GL_EXT_rescale_normal
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 178: GL_EXT_secondary_color
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 179: GL_EXT_separate_specular_color
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 180: GL_EXT_shader_framebuffer_fetch
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 181: GL_EXT_shader_framebuffer_fetch_non_coherent
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 182: GL_EXT_shader_integer_mix
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 183: GL_EXT_shader_samples_identical
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 184: GL_EXT_shadow_funcs
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 185: GL_EXT_stencil_two_side
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 186: GL_EXT_stencil_wrap
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 187: GL_EXT_subtexture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 188: GL_EXT_texture
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 189: GL_EXT_texture3D
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 190: GL_EXT_texture_array
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 191: GL_EXT_texture_compression_dxt1
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 192: GL_EXT_texture_compression_rgtc
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 193: GL_EXT_texture_compression_s3tc
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 194: GL_EXT_texture_cube_map
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 195: GL_EXT_texture_edge_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 196: GL_EXT_texture_env_add
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 197: GL_EXT_texture_env_combine
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 198: GL_EXT_texture_env_dot3
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 199: GL_EXT_texture_filter_anisotropic
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 200: GL_EXT_texture_integer
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 201: GL_EXT_texture_lod_bias
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 202: GL_EXT_texture_object
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 203: GL_EXT_texture_rectangle
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 204: GL_EXT_texture_sRGB
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 205: GL_EXT_texture_sRGB_decode
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 206: GL_EXT_texture_shared_exponent
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 207: GL_EXT_texture_snorm
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 208: GL_EXT_texture_swizzle
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 209: GL_EXT_timer_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 210: GL_EXT_transform_feedback
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 211: GL_EXT_vertex_array
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 212: GL_EXT_vertex_array_bgra
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 213: GL_IBM_multimode_draw_arrays
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 214: GL_IBM_rasterpos_clip
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 215: GL_IBM_texture_mirrored_repeat
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 216: GL_INGR_blend_func_separate
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 217: GL_INTEL_performance_query
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 218: GL_KHR_blend_equation_advanced
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 219: GL_KHR_blend_equation_advanced_coherent
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 220: GL_KHR_context_flush_control
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 221: GL_KHR_debug
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 222: GL_KHR_no_error
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 223: GL_KHR_robust_buffer_access_behavior
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 224: GL_KHR_robustness
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 225: GL_KHR_texture_compression_astc_ldr
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 226: GL_KHR_texture_compression_astc_sliced_3d
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 227: GL_MESA_pack_invert
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 228: GL_MESA_shader_integer_functions
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 229: GL_MESA_texture_signed_rgba
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 230: GL_MESA_window_pos
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 231: GL_NV_blend_square
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 232: GL_NV_conditional_render
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 233: GL_NV_depth_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 234: GL_NV_fog_distance
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 235: GL_NV_light_max_exponent
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 236: GL_NV_packed_depth_stencil
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 237: GL_NV_primitive_restart
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 238: GL_NV_texgen_reflection
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 239: GL_NV_texture_barrier
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 240: GL_NV_texture_env_combine4
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 241: GL_NV_texture_rectangle
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 242: GL_OES_EGL_image
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 243: GL_OES_read_format
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 244: GL_S3_s3tc
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 245: GL_SGIS_generate_mipmap
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 246: GL_SGIS_texture_border_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 247: GL_SGIS_texture_edge_clamp
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 248: GL_SGIS_texture_lod
+lib/SIL/src/sysdep/opengl/graphics.c:428(opengl_init): OpenGL extension 249: GL_SUN_multi_draw_arrays
+lib/SIL/src/sysdep/opengl/graphics.c:468(opengl_init): OpenGL features enabled: 0x76002E
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_FAST_DYNAMIC_VBO
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_FAST_STATIC_VBO
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_GENERATEMIPMAP
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_NATIVE_QUADS
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_FRAMEBUFFERS
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_GETTEXIMAGE
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_SHADER_BINARIES
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_TEXTURE_STORAGE
+lib/SIL/src/sysdep/opengl/graphics.c:471(opengl_init):    OPENGL_FEATURE_VERTEX_ATTRIB_INT
+lib/SIL/src/sysdep/opengl/graphics.c:474(opengl_init): OpenGL texture formats supported: 0x37
+lib/SIL/src/sysdep/opengl/graphics.c:477(opengl_init):    OPENGL_FORMAT_BGRA
+lib/SIL/src/sysdep/opengl/graphics.c:477(opengl_init):    OPENGL_FORMAT_BITREV
+lib/SIL/src/sysdep/opengl/graphics.c:477(opengl_init):    OPENGL_FORMAT_INDEX32
+lib/SIL/src/sysdep/opengl/graphics.c:477(opengl_init):    OPENGL_FORMAT_RG
+lib/SIL/src/sysdep/opengl/graphics.c:477(opengl_init):    OPENGL_FORMAT_S3TC
+Video Initialized
+Renderer: OpenGL version 3.0 (GL_VERSION: 3.0 Mesa 18.2.4)
+Creating FBO...
+Starting audio library...
+lib/SIL/src/sysdep/linux/sound.c:168(sys_sound_init): Audio output rate: 48000 Hz, buffer size: 4096, period: 1024
+lib/SIL/src/sysdep/posix/thread.c:187(sys_thread_create): 0x70AEA0((null)): Requested priority 10 (actual -10) too high, using 0 (0)
+Audio Initialized!
+Resource Preload: 3.666
+Initializing animations...
+Animations Initialized!
+Loading Ship Blueprints....
+Blueprints Loaded!
+Initializing Sound Data....
+Generating world...
+Loading achievements...
+Loading score file...
+Running Game!
